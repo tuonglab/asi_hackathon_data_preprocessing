@@ -162,3 +162,5 @@ cython_debug/
 *.h5ad
 *.h5ddl
 *.rds
+local/
+filtered/
